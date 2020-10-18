@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/github/contributors/VisionAK/hacktoberfest?style=for-the-badge">
 </p>
 
-# **Awesome-Javascript-and-React-Project**💯
+# **/VisionAK/hacktoberfest**💯
 
 This repository consists of some of the great Javascript and React Projects and it is a part of Hacktoberfest.
 
